@@ -10,9 +10,7 @@ import java.util.*;
 public class ChampionshipTableGenerator{
 
     public static Set<TeamInformation> generateClassificationTable(Map<String, List<MatchDetails>> matchHistoryByTeam){
-        Set<TeamInformation> classificationTable = new TreeSet<>(Comparator.
-                                                                            comparing(TeamInformation::getScore, Comparator.reverseOrder()).
-                                                                            thenComparing(TeamInformation::getTeamName));
+        Set<TeamInformation> classificationTable = generateClassificationListTreeSet();
 
         matchHistoryByTeam.entrySet().forEach( group -> {
 
@@ -34,17 +32,15 @@ public class ChampionshipTableGenerator{
         return  classificationTable;
     }
 
+    private static Set<TeamInformation> generateClassificationListTreeSet(){
+        return new TreeSet<>(Comparator.
+                comparing(TeamInformation::getScore, Comparator.reverseOrder()).
+                thenComparing(TeamInformation::getTeamName));
+    }
+
     public static void printClassificationTable(Set<TeamInformation> classificationTable){
         classificationTable.forEach((teamInformation) ->{
             System.out.println(teamInformation);
         });
-    }
-
-    private static void organizeClassificationTableByPoints(Map<String, TeamInformation> classificationTable){
-        BidiMap<String, TeamInformation> classificationTableInBM = new DualHashBidiMap<>();
-        classificationTableInBM.putAll(classificationTable);
-        BidiMap<TeamInformation, String> classificationTableInBMInverted = classificationTableInBM.inverseBidiMap();
-
-
     }
 }
