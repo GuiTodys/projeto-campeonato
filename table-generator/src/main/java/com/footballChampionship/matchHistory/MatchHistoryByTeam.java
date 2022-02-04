@@ -1,5 +1,8 @@
 package com.footballChampionship.matchHistory;
 
+import org.apache.commons.collections4.CollectionUtils;
+
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -9,7 +12,12 @@ public class MatchHistoryByTeam {
     public static Map<String, List<MatchDetails>> divideMatchHistoryByTeams(Set<MatchDetails> matchHistory){
         Map<String, List<MatchDetails>> matchHistory1 = divideMatchHistoryByHomeTeam(matchHistory);
         Map<String, List<MatchDetails>> matchHistory2 = divideMatchHistoryByAwayTeam(matchHistory);
-        return Map<String, List<MatchDetails>> matchHistoryDividedByTeams = matchHistory2.forEach((key,value) -> matchHistory1.merge(key, value, (v1,v2) -> v1.equalsIgnoreCase()));
+        Map<String, List<MatchDetails>> completeList = new HashMap<>();
+        matchHistory1.entrySet().forEach(group -> completeList.put(group.getKey(),
+                                        CollectionUtils.collate(matchHistory1.get(group.getKey()),
+                                        matchHistory2.get(group.getKey()))));
+
+        return completeList;
     }
 
     public static Map<String, List<MatchDetails>> divideMatchHistoryByHomeTeam(Set<MatchDetails> matchHistory){

@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.util.*;
 
 public class MatchHistoryCreator {
-    public static final String FILE_PATH = "C:\\Users\\guilh\\Documents\\projeto-campeonato\\lista-times.csv";
+    public static final String FILE_PATH = "C:\\Users\\guilh\\Documents\\projeto-campeonato\\brasileirao2020.csv";
 
     private static Set<MatchDetails> matchHistoryCreator(){
         MatchDetails matchEntry;
@@ -36,6 +36,7 @@ public class MatchHistoryCreator {
                 awayTeam(matchDetailsStringArray[1]).
                 homeTeamScore(Integer. parseInt(matchDetailsStringArray[2])).
                 awayTeamScore(Integer. parseInt(matchDetailsStringArray[3])).
+//                matchDate(LocalDate.parse(matchDetailsStringArray[4]))
                 matchDate(LocalDate.parse(matchDetailsStringArray[4]))
                 .build();
     }
@@ -47,6 +48,8 @@ public class MatchHistoryCreator {
 
         Map<String, List<MatchDetails>> matchHistoryByTeam = MatchHistoryByTeam.divideMatchHistoryByTeams(matchHistory);
         MatchHistoryByTeam.printFilteredList(matchHistoryByTeam);
+
+        System.out.println(matchHistoryByTeam.size());
 }
 
 }

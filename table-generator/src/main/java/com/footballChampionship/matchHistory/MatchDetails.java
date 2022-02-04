@@ -9,6 +9,7 @@ import java.time.LocalDate;
 @EqualsAndHashCode
 @Getter
 @ToString
+
 public class MatchDetails implements Comparable<MatchDetails>{
     private String homeTeam;
     private String awayTeam;
