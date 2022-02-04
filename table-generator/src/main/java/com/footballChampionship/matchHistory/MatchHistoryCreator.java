@@ -1,5 +1,8 @@
 package com.footballChampionship.matchHistory;
 
+import com.footballChampionship.championshipRank.ChampionshipTableGenerator;
+import com.footballChampionship.championshipRank.TeamInformation;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Path;
@@ -36,7 +39,6 @@ public class MatchHistoryCreator {
                 awayTeam(matchDetailsStringArray[1]).
                 homeTeamScore(Integer. parseInt(matchDetailsStringArray[2])).
                 awayTeamScore(Integer. parseInt(matchDetailsStringArray[3])).
-//                matchDate(LocalDate.parse(matchDetailsStringArray[4]))
                 matchDate(LocalDate.parse(matchDetailsStringArray[4]))
                 .build();
     }
@@ -49,7 +51,9 @@ public class MatchHistoryCreator {
         Map<String, List<MatchDetails>> matchHistoryByTeam = MatchHistoryByTeam.divideMatchHistoryByTeams(matchHistory);
         MatchHistoryByTeam.printFilteredList(matchHistoryByTeam);
 
-        System.out.println(matchHistoryByTeam.size());
+        Set<TeamInformation> classificationTable = ChampionshipTableGenerator.generateClassificationTable(matchHistoryByTeam);
+
+        ChampionshipTableGenerator.printClassificationTable(classificationTable);
 }
 
 }
