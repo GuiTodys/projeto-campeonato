@@ -2,17 +2,20 @@ package com.footballChampionship.matchHistory;
 
 import org.apache.commons.collections4.CollectionUtils;
 
-import java.util.*;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
 import java.util.stream.Collectors;
 
 public class MatchHistoryByTeam {
     public static Map<String, List<MatchDetails>> divideMatchHistoryByTeams(Set<MatchDetails> matchHistory){
-        Map<String, List<MatchDetails>> matchHistory1 = divideMatchHistoryByHomeTeam(matchHistory);
-        Map<String, List<MatchDetails>> matchHistory2 = divideMatchHistoryByAwayTeam(matchHistory);
+        Map<String, List<MatchDetails>> matchHistoryByHomeTeam = divideMatchHistoryByHomeTeam(matchHistory);
+        Map<String, List<MatchDetails>> matchHistoryByAwayTeam = divideMatchHistoryByAwayTeam(matchHistory);
         Map<String, List<MatchDetails>> completeList = new TreeMap<>();
-        matchHistory1.entrySet().forEach(group -> completeList.put(group.getKey(),
-                                        CollectionUtils.collate(matchHistory1.get(group.getKey()),
-                                        matchHistory2.get(group.getKey()))));
+        matchHistoryByHomeTeam.entrySet().forEach(group -> completeList.put(group.getKey(),
+                                        CollectionUtils.collate(matchHistoryByHomeTeam.get(group.getKey()),
+                                        matchHistoryByAwayTeam.get(group.getKey()))));
 
         return completeList;
     }

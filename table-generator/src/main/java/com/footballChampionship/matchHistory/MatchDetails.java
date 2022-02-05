@@ -19,15 +19,15 @@ public class MatchDetails implements Comparable<MatchDetails>{
 
     @Override
     public int compareTo(MatchDetails match) {
+        int matchDateCompare = matchDate.compareTo(match.matchDate);
+        if(matchDateCompare!=0){
+            return matchDateCompare;
+        }
         int homeTeamCompare = homeTeam.compareTo(match.homeTeam);
-        if(homeTeamCompare!=0){
+        if(matchDateCompare!=0){
             return homeTeamCompare;
         }
-        int awayTeamCompare = awayTeam.compareTo(match.awayTeam);
-        if(awayTeamCompare!=0){
-            return awayTeamCompare;
-        }
-        return matchDate.compareTo(match.matchDate);
+        return awayTeam.compareTo(match.awayTeam);
     }
 }
 

@@ -2,15 +2,20 @@ package com.footballChampionship.matchHistory;
 
 import com.footballChampionship.championshipRank.ChampionshipTableGenerator;
 import com.footballChampionship.championshipRank.TeamInformation;
+import com.footballChampionship.fileWriter.ChampionshipFileWriter;
+import com.footballChampionship.fileWriter.MatchHistoryFileWriter;
+import org.apache.commons.lang3.ArrayUtils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Path;
+import java.text.DateFormat;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class MatchHistoryCreator {
-    public static final String FILE_PATH = "C:\\Users\\guilh\\Documents\\projeto-campeonato\\brasileirao2020.csv";
+    public static final String FILE_PATH = "C:\\Users\\guilh\\Documents\\GitHub\\projeto-campeonato\\santander811matchesResult.csv";
 
     private static Set<MatchDetails> matchHistoryCreator(){
         MatchDetails matchEntry;
@@ -39,8 +44,14 @@ public class MatchHistoryCreator {
                 awayTeam(matchDetailsStringArray[1]).
                 homeTeamScore(Integer. parseInt(matchDetailsStringArray[2])).
                 awayTeamScore(Integer. parseInt(matchDetailsStringArray[3])).
-                matchDate(LocalDate.parse(matchDetailsStringArray[4]))
+                matchDate(LocalDate.parse(convertDateFormt(matchDetailsStringArray[4])))
                 .build();
+    }
+
+    private static String convertDateFormt(String date){
+        String[] dateArray = date.split("/");
+        ArrayUtils.reverse(dateArray);
+        return dateArray[0] + "-" + dateArray[1] + "-" + dateArray[2];
     }
 
 
@@ -54,6 +65,11 @@ public class MatchHistoryCreator {
         Set<TeamInformation> classificationTable = ChampionshipTableGenerator.generateClassificationTable(matchHistoryByTeam);
 
         ChampionshipTableGenerator.printClassificationTable(classificationTable);
+
+        ChampionshipFileWriter.prepareAndWriteChampionshipClassificationTable(classificationTable);
+
+        MatchHistoryFileWriter.prepareAndWriteTeamMatchHistory(matchHistoryByTeam);
+
 }
 
 }

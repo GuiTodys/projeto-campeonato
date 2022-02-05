@@ -1,0 +1,36 @@
+02/03/2022:Fluminense 1 X 4 Atlético-GO
+02/03/2022:Atlético-GO 1 X 6 São Paulo
+03/03/2022:Ceará 5 X 3 Atlético-GO
+03/03/2022:Atlético-GO 5 X 1 Goiás
+04/03/2022:Atlético-MG 6 X 1 Atlético-GO
+05/03/2022:Juventude 0 X 3 Atlético-GO
+05/03/2022:Atlético-GO 4 X 1 Atlético-MG
+06/03/2022:Fortaleza 1 X 5 Atlético-GO
+09/03/2022:Cuiabá 1 X 6 Atlético-GO
+09/03/2022:Atlético-GO 3 X 1 Palmeiras
+12/03/2022:Corinthians 4 X 4 Atlético-GO
+13/03/2022:Internacional 4 X 2 Atlético-GO
+14/03/2022:Palmeiras 3 X 1 Atlético-GO
+15/03/2022:São Paulo 4 X 0 Atlético-GO
+16/03/2022:Atlético-GO 2 X 3 Coritiba
+16/03/2022:Atlético-GO 3 X 6 Internacional
+17/03/2022:Athletico Paranaense 5 X 0 Atlético-GO
+18/03/2022:Atlético-GO 5 X 6 Ceará
+19/03/2022:Atlético-GO 0 X 5 América-MG
+19/03/2022:Botafogo 5 X 4 Atlético-GO
+20/03/2022:América-MG 2 X 2 Atlético-GO
+21/03/2022:Avaí 3 X 5 Atlético-GO
+21/03/2022:Atlético-GO 2 X 1 Bragantino
+21/03/2022:Atlético-GO 5 X 1 Corinthians
+21/03/2022:Atlético-GO 4 X 4 Fluminense
+22/03/2022:Atlético-GO 3 X 4 Cuiabá
+22/03/2022:Atlético-GO 5 X 5 Fortaleza
+23/03/2022:Atlético-GO 1 X 2 Avaí
+23/03/2022:Atlético-GO 0 X 6 Santos
+24/03/2022:Atlético-GO 1 X 4 Botafogo
+25/03/2022:Coritiba 1 X 4 Atlético-GO
+26/03/2022:Santos 2 X 3 Atlético-GO
+27/03/2022:Bragantino 0 X 2 Atlético-GO
+29/03/2022:Atlético-GO 3 X 3 Athletico Paranaense
+30/03/2022:Atlético-GO 0 X 6 Juventude
+31/03/2022:Atlético-GO 1 X 4 Flamengo

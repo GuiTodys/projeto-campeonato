@@ -1,0 +1,29 @@
+01/03/2022:Santos 5 X 1 Atlético-MG
+01/03/2022:Bragantino 5 X 2 Santos
+02/03/2022:Atlético-MG 0 X 4 Santos
+03/03/2022:Santos 4 X 6 Coritiba
+03/03/2022:Goiás 0 X 3 Santos
+04/03/2022:São Paulo 3 X 6 Santos
+05/03/2022:Santos 4 X 1 América-MG
+07/03/2022:Santos 4 X 3 Botafogo
+07/03/2022:Santos 2 X 5 Bragantino
+07/03/2022:Coritiba 2 X 3 Santos
+08/03/2022:Santos 0 X 2 Juventude
+08/03/2022:Cuiabá 6 X 2 Santos
+09/03/2022:Santos 3 X 6 Cuiabá
+10/03/2022:Santos 0 X 3 Flamengo
+10/03/2022:Santos 2 X 0 Goiás
+11/03/2022:Santos 1 X 6 Palmeiras
+13/03/2022:América-MG 2 X 5 Santos
+16/03/2022:Botafogo 3 X 6 Santos
+17/03/2022:Internacional 0 X 6 Santos
+18/03/2022:Avaí 6 X 0 Santos
+19/03/2022:Santos 6 X 4 Ceará
+19/03/2022:Santos 2 X 6 São Paulo
+23/03/2022:Atlético-GO 0 X 6 Santos
+24/03/2022:Fluminense 4 X 2 Santos
+26/03/2022:Santos 2 X 3 Atlético-GO
+26/03/2022:Fortaleza 2 X 5 Santos
+28/03/2022:Corinthians 4 X 0 Santos
+29/03/2022:Athletico Paranaense 6 X 0 Santos
+30/03/2022:Santos 1 X 0 Fluminense
