@@ -5,8 +5,10 @@
 04/03/2022:Atlético-MG 6 X 1 Atlético-GO
 04/03/2022:Palmeiras 6 X 2 Atlético-MG
 05/03/2022:Atlético-GO 4 X 1 Atlético-MG
-07/03/2022:Coritiba 2 X 5 Atlético-MG
+05/03/2022:Internacional 1 X 5 Atlético-MG
+05/03/2022:São Paulo 6 X 2 Atlético-MG
 07/03/2022:Atlético-MG 0 X 3 Goiás
+07/03/2022:Coritiba 2 X 5 Atlético-MG
 08/03/2022:Botafogo 6 X 4 Atlético-MG
 10/03/2022:Atlético-MG 5 X 2 Fluminense
 11/03/2022:Atlético-MG 3 X 4 Ceará
@@ -15,18 +17,21 @@
 14/03/2022:Bragantino 5 X 2 Atlético-MG
 16/03/2022:Atlético-MG 0 X 6 São Paulo
 17/03/2022:Atlético-MG 0 X 6 América-MG
-17/03/2022:Ceará 1 X 4 Atlético-MG
 17/03/2022:Atlético-MG 5 X 2 Coritiba
 17/03/2022:Atlético-MG 5 X 2 Cuiabá
 17/03/2022:Atlético-MG 4 X 1 Flamengo
+17/03/2022:Ceará 1 X 4 Atlético-MG
 18/03/2022:América-MG 0 X 3 Atlético-MG
+19/03/2022:Atlético-MG 4 X 2 Internacional
 20/03/2022:Atlético-MG 1 X 1 Juventude
 21/03/2022:Cuiabá 5 X 3 Atlético-MG
 22/03/2022:Fluminense 5 X 2 Atlético-MG
 23/03/2022:Fortaleza 6 X 0 Atlético-MG
 25/03/2022:Corinthians 4 X 4 Atlético-MG
-26/03/2022:Atlético-MG 5 X 2 Athletico Paranaense
+25/03/2022:Goiás 0 X 5 Atlético-MG
 26/03/2022:Athletico Paranaense 6 X 6 Atlético-MG
+26/03/2022:Atlético-MG 5 X 2 Athletico Paranaense
+26/03/2022:Flamengo 3 X 4 Atlético-MG
 28/03/2022:Atlético-MG 3 X 3 Fortaleza
 29/03/2022:Juventude 3 X 2 Atlético-MG
 30/03/2022:Atlético-MG 1 X 2 Corinthians

@@ -1,7 +1,9 @@
 01/03/2022:Ceará 3 X 0 Avaí
 02/03/2022:Atlético-MG 0 X 5 Avaí
-03/03/2022:Avaí 2 X 4 Athletico Paranaense
+02/03/2022:Corinthians 1 X 6 Avaí
+02/03/2022:Fortaleza 3 X 2 Avaí
 03/03/2022:Athletico Paranaense 2 X 6 Avaí
+03/03/2022:Avaí 2 X 4 Athletico Paranaense
 04/03/2022:Avaí 2 X 6 Ceará
 05/03/2022:Flamengo 5 X 1 Avaí
 06/03/2022:Cuiabá 0 X 3 Avaí
@@ -9,14 +11,17 @@
 08/03/2022:Avaí 2 X 2 Bragantino
 08/03/2022:Avaí 3 X 3 Palmeiras
 09/03/2022:Internacional 6 X 4 Avaí
-10/03/2022:Goiás 4 X 1 Avaí
 10/03/2022:Avaí 5 X 0 Internacional
+10/03/2022:Goiás 4 X 1 Avaí
 11/03/2022:Bragantino 4 X 5 Avaí
+11/03/2022:Coritiba 1 X 4 Avaí
+11/03/2022:Fluminense 4 X 0 Avaí
+11/03/2022:Santos 2 X 5 Avaí
 13/03/2022:Avaí 6 X 5 Cuiabá
 13/03/2022:Avaí 2 X 2 São Paulo
 14/03/2022:Botafogo 2 X 4 Avaí
-16/03/2022:Palmeiras 3 X 6 Avaí
 16/03/2022:Avaí 1 X 6 Goiás
+16/03/2022:Palmeiras 3 X 6 Avaí
 17/03/2022:Juventude 0 X 5 Avaí
 18/03/2022:Avaí 6 X 0 Santos
 21/03/2022:Avaí 3 X 5 Atlético-GO
@@ -28,5 +33,6 @@
 25/03/2022:América-MG 0 X 5 Avaí
 25/03/2022:Avaí 5 X 1 Botafogo
 27/03/2022:Avaí 3 X 5 Juventude
+28/03/2022:Avaí 0 X 2 Fluminense
 30/03/2022:Avaí 0 X 5 Flamengo
 31/03/2022:Avaí 3 X 6 Atlético-MG

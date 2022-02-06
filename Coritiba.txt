@@ -2,24 +2,36 @@
 02/03/2022:Coritiba 6 X 2 Athletico Paranaense
 03/03/2022:Coritiba 1 X 1 América-MG
 03/03/2022:Santos 4 X 6 Coritiba
+03/03/2022:São Paulo 5 X 4 Coritiba
 05/03/2022:Coritiba 1 X 2 São Paulo
 07/03/2022:Coritiba 2 X 5 Atlético-MG
 07/03/2022:Coritiba 2 X 3 Santos
+08/03/2022:Coritiba 2 X 3 Corinthians
 09/03/2022:Botafogo 5 X 2 Coritiba
+09/03/2022:Coritiba 2 X 6 Fortaleza
 10/03/2022:Internacional 1 X 6 Coritiba
 11/03/2022:Corinthians 4 X 2 Coritiba
+11/03/2022:Coritiba 1 X 4 Avaí
+13/03/2022:Coritiba 6 X 6 Bragantino
 14/03/2022:Athletico Paranaense 2 X 6 Coritiba
+14/03/2022:Cuiabá 3 X 2 Coritiba
+14/03/2022:Flamengo 2 X 4 Coritiba
+14/03/2022:Palmeiras 2 X 6 Coritiba
 15/03/2022:Fluminense 1 X 6 Coritiba
 16/03/2022:Atlético-GO 2 X 3 Coritiba
+16/03/2022:Ceará 5 X 4 Coritiba
 17/03/2022:Atlético-MG 5 X 2 Coritiba
-18/03/2022:Goiás 5 X 3 Coritiba
+17/03/2022:Bragantino 6 X 2 Coritiba
+17/03/2022:Coritiba 3 X 0 Flamengo
 18/03/2022:Coritiba 1 X 6 Fluminense
 18/03/2022:Coritiba 3 X 1 Internacional
+18/03/2022:Goiás 5 X 3 Coritiba
 19/03/2022:Fortaleza 0 X 0 Coritiba
 20/03/2022:Coritiba 2 X 3 Goiás
 20/03/2022:Coritiba 3 X 1 Palmeiras
 22/03/2022:Coritiba 6 X 2 Ceará
 23/03/2022:Avaí 3 X 1 Coritiba
+24/03/2022:Coritiba 6 X 4 Botafogo
 25/03/2022:Coritiba 1 X 4 Atlético-GO
 27/03/2022:Coritiba 0 X 1 Cuiabá
 29/03/2022:Coritiba 4 X 1 Juventude

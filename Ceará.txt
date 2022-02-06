@@ -1,28 +1,38 @@
 01/03/2022:Ceará 3 X 0 Avaí
 02/03/2022:Ceará 4 X 1 Internacional
+02/03/2022:Ceará 1 X 0 São Paulo
 03/03/2022:Ceará 5 X 3 Atlético-GO
 03/03/2022:Ceará 3 X 2 Cuiabá
 04/03/2022:Avaí 2 X 6 Ceará
 04/03/2022:Ceará 0 X 1 Palmeiras
+04/03/2022:Corinthians 3 X 0 Ceará
+05/03/2022:Ceará 0 X 2 Juventude
 06/03/2022:Ceará 5 X 3 Corinthians
 07/03/2022:Internacional 3 X 2 Ceará
 08/03/2022:América-MG 6 X 6 Ceará
 11/03/2022:Atlético-MG 3 X 4 Ceará
 14/03/2022:Ceará 1 X 2 Fluminense
-15/03/2022:Ceará 2 X 4 Bragantino
 15/03/2022:Botafogo 0 X 2 Ceará
+15/03/2022:Ceará 2 X 4 Bragantino
 16/03/2022:Ceará 5 X 4 Athletico Paranaense
+16/03/2022:Ceará 5 X 4 Coritiba
 17/03/2022:Ceará 1 X 4 Atlético-MG
 17/03/2022:Ceará 5 X 4 Goiás
 18/03/2022:Atlético-GO 5 X 6 Ceará
+18/03/2022:Fluminense 2 X 2 Ceará
 19/03/2022:Santos 6 X 4 Ceará
 21/03/2022:Ceará 1 X 0 Fortaleza
 22/03/2022:Coritiba 6 X 2 Ceará
-24/03/2022:Juventude 4 X 2 Ceará
+22/03/2022:Fortaleza 0 X 4 Ceará
+23/03/2022:Ceará 2 X 6 Santos
 24/03/2022:Ceará 3 X 4 Flamengo
+24/03/2022:Juventude 4 X 2 Ceará
+24/03/2022:Palmeiras 1 X 3 Ceará
 25/03/2022:Ceará 3 X 4 América-MG
 26/03/2022:Goiás 3 X 1 Ceará
 27/03/2022:Flamengo 0 X 4 Ceará
 28/03/2022:Athletico Paranaense 0 X 6 Ceará
+28/03/2022:Bragantino 6 X 2 Ceará
+28/03/2022:Cuiabá 0 X 4 Ceará
 29/03/2022:São Paulo 1 X 6 Ceará
 30/03/2022:Ceará 0 X 5 Botafogo

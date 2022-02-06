@@ -1,29 +1,38 @@
 01/03/2022:Internacional 3 X 6 Corinthians
+02/03/2022:Corinthians 1 X 6 Avaí
 03/03/2022:Juventude 5 X 2 Corinthians
+04/03/2022:Corinthians 3 X 0 Ceará
 05/03/2022:Corinthians 4 X 3 Athletico Paranaense
 05/03/2022:Fluminense 4 X 3 Corinthians
 06/03/2022:Ceará 5 X 3 Corinthians
+06/03/2022:Santos 0 X 6 Corinthians
+06/03/2022:São Paulo 0 X 3 Corinthians
 08/03/2022:Bragantino 6 X 3 Corinthians
+08/03/2022:Coritiba 2 X 3 Corinthians
 10/03/2022:Botafogo 3 X 3 Corinthians
-11/03/2022:Fortaleza 1 X 0 Corinthians
 11/03/2022:Corinthians 4 X 2 Coritiba
 11/03/2022:Corinthians 2 X 5 São Paulo
+11/03/2022:Fortaleza 1 X 0 Corinthians
 12/03/2022:Corinthians 4 X 4 Atlético-GO
-12/03/2022:Goiás 5 X 3 Corinthians
 12/03/2022:Corinthians 2 X 5 Juventude
+12/03/2022:Goiás 5 X 3 Corinthians
+13/03/2022:Corinthians 5 X 0 Cuiabá
 13/03/2022:Cuiabá 1 X 3 Corinthians
 15/03/2022:Corinthians 2 X 0 Goiás
 19/03/2022:Corinthians 1 X 2 Bragantino
+20/03/2022:Corinthians 1 X 1 Internacional
 21/03/2022:Atlético-GO 5 X 1 Corinthians
 22/03/2022:Corinthians 5 X 4 Botafogo
+22/03/2022:Corinthians 3 X 2 Fluminense
 23/03/2022:Avaí 1 X 6 Corinthians
 25/03/2022:Corinthians 4 X 4 Atlético-MG
-26/03/2022:Palmeiras 5 X 3 Corinthians
 26/03/2022:Corinthians 5 X 3 Fortaleza
+26/03/2022:Palmeiras 5 X 3 Corinthians
 27/03/2022:Athletico Paranaense 6 X 6 Corinthians
 27/03/2022:Corinthians 2 X 3 Palmeiras
 28/03/2022:América-MG 5 X 0 Corinthians
 28/03/2022:Corinthians 4 X 0 Santos
 29/03/2022:Corinthians 0 X 1 América-MG
 30/03/2022:Atlético-MG 1 X 2 Corinthians
+31/03/2022:Corinthians 5 X 3 Flamengo
 31/03/2022:Flamengo 4 X 0 Corinthians

@@ -12,12 +12,12 @@ public class MatchHistoryByTeam {
     public static Map<String, List<MatchDetails>> divideMatchHistoryByTeams(Set<MatchDetails> matchHistory){
         Map<String, List<MatchDetails>> matchHistoryByHomeTeam = divideMatchHistoryByHomeTeam(matchHistory);
         Map<String, List<MatchDetails>> matchHistoryByAwayTeam = divideMatchHistoryByAwayTeam(matchHistory);
-        Map<String, List<MatchDetails>> completeList = new TreeMap<>();
-        matchHistoryByHomeTeam.entrySet().forEach(group -> completeList.put(group.getKey(),
+        Map<String, List<MatchDetails>> matchHistoryByTeams = new TreeMap<>();
+        matchHistoryByHomeTeam.entrySet().forEach(group -> matchHistoryByTeams.put(group.getKey(),
                                         CollectionUtils.collate(matchHistoryByHomeTeam.get(group.getKey()),
                                         matchHistoryByAwayTeam.get(group.getKey()))));
 
-        return completeList;
+        return matchHistoryByTeams;
     }
 
     public static Map<String, List<MatchDetails>> divideMatchHistoryByHomeTeam(Set<MatchDetails> matchHistory){
@@ -29,7 +29,7 @@ public class MatchHistoryByTeam {
     public static Map<String, List<MatchDetails>> divideMatchHistoryByAwayTeam(Set<MatchDetails> matchHistory){
         return matchHistory.stream().
                 collect(Collectors.
-                        groupingBy(MatchDetails::getAwayTeam));
+                groupingBy(MatchDetails::getAwayTeam));
     }
 
 

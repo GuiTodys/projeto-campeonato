@@ -1,25 +1,38 @@
 01/03/2022:Flamengo 1 X 4 Fluminense
+01/03/2022:Juventude 2 X 4 Fluminense
 02/03/2022:Fluminense 1 X 4 Atlético-GO
 04/03/2022:Fluminense 3 X 3 Internacional
+05/03/2022:América-MG 2 X 1 Fluminense
 05/03/2022:Fluminense 1 X 2 Bragantino
 05/03/2022:Fluminense 4 X 3 Corinthians
-05/03/2022:América-MG 2 X 1 Fluminense
+05/03/2022:Fortaleza 2 X 4 Fluminense
 06/03/2022:Goiás 6 X 1 Fluminense
+08/03/2022:Fluminense 3 X 0 Cuiabá
 08/03/2022:São Paulo 1 X 4 Fluminense
 09/03/2022:Cuiabá 5 X 5 Fluminense
-10/03/2022:Fluminense 1 X 1 Botafogo
 10/03/2022:Atlético-MG 5 X 2 Fluminense
+10/03/2022:Fluminense 1 X 1 Botafogo
+10/03/2022:Internacional 2 X 6 Fluminense
+10/03/2022:Palmeiras 5 X 1 Fluminense
 11/03/2022:Fluminense 6 X 0 Athletico Paranaense
+11/03/2022:Fluminense 4 X 0 Avaí
 12/03/2022:Fluminense 6 X 5 Goiás
+13/03/2022:Fluminense 3 X 1 Palmeiras
 14/03/2022:Ceará 1 X 2 Fluminense
 15/03/2022:Fluminense 1 X 6 Coritiba
 15/03/2022:Fluminense 3 X 6 Flamengo
+16/03/2022:Fluminense 2 X 0 São Paulo
 18/03/2022:Coritiba 1 X 6 Fluminense
+18/03/2022:Fluminense 2 X 2 Ceará
 20/03/2022:Botafogo 2 X 1 Fluminense
 21/03/2022:Atlético-GO 4 X 4 Fluminense
-22/03/2022:Fluminense 5 X 2 Atlético-MG
 22/03/2022:Bragantino 3 X 0 Fluminense
+22/03/2022:Corinthians 3 X 2 Fluminense
+22/03/2022:Fluminense 5 X 2 Atlético-MG
 24/03/2022:Fluminense 4 X 2 Santos
 26/03/2022:Fluminense 2 X 3 América-MG
+26/03/2022:Fluminense 1 X 1 Juventude
 28/03/2022:Athletico Paranaense 1 X 2 Fluminense
+28/03/2022:Avaí 0 X 2 Fluminense
+30/03/2022:Fluminense 5 X 4 Fortaleza
 30/03/2022:Santos 1 X 0 Fluminense

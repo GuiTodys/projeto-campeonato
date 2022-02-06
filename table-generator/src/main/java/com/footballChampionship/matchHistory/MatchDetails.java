@@ -9,12 +9,11 @@ import java.time.LocalDate;
 @EqualsAndHashCode
 @Getter
 @ToString
-
 public class MatchDetails implements Comparable<MatchDetails>{
     private String homeTeam;
     private String awayTeam;
-    private int homeTeamScore;
-    private int awayTeamScore;
+    private Integer homeTeamScore;
+    private Integer awayTeamScore;
     private LocalDate matchDate;
 
     @Override
@@ -24,10 +23,18 @@ public class MatchDetails implements Comparable<MatchDetails>{
             return matchDateCompare;
         }
         int homeTeamCompare = homeTeam.compareTo(match.homeTeam);
-        if(matchDateCompare!=0){
+        if(homeTeamCompare!=0){
             return homeTeamCompare;
         }
-        return awayTeam.compareTo(match.awayTeam);
+        int awayTeamCompare = awayTeam.compareTo(match.awayTeam);
+        if(awayTeamCompare!=0){
+            return awayTeamCompare;
+        }
+        int homeTeamScoreCompare = homeTeamScore.compareTo(match.homeTeamScore);
+        if(homeTeamScoreCompare!=0){
+            return homeTeamScoreCompare;
+        }
+        return awayTeamScore.compareTo(match.awayTeamScore);
     }
 }
 

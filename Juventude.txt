@@ -1,25 +1,38 @@
+01/03/2022:Juventude 2 X 4 Fluminense
+01/03/2022:Juventude 3 X 1 Santos
 03/03/2022:Juventude 5 X 2 Corinthians
 04/03/2022:Palmeiras 5 X 6 Juventude
-05/03/2022:Juventude 0 X 3 Atlético-GO
 05/03/2022:América-MG 5 X 1 Juventude
+05/03/2022:Ceará 0 X 2 Juventude
+05/03/2022:Juventude 0 X 3 Atlético-GO
+06/03/2022:Juventude 6 X 6 Cuiabá
 07/03/2022:Juventude 2 X 6 América-MG
+07/03/2022:Juventude 4 X 3 Goiás
 08/03/2022:Santos 0 X 2 Juventude
 12/03/2022:Corinthians 2 X 5 Juventude
+12/03/2022:Juventude 2 X 0 Bragantino
 15/03/2022:Juventude 2 X 6 Palmeiras
 16/03/2022:Internacional 3 X 3 Juventude
-17/03/2022:Juventude 0 X 5 Avaí
 17/03/2022:Flamengo 0 X 1 Juventude
-19/03/2022:Juventude 6 X 4 Botafogo
+17/03/2022:Goiás 2 X 6 Juventude
+17/03/2022:Juventude 0 X 5 Avaí
+17/03/2022:São Paulo 6 X 5 Juventude
 19/03/2022:Athletico Paranaense 6 X 2 Juventude
+19/03/2022:Juventude 6 X 4 Botafogo
 20/03/2022:Atlético-MG 1 X 1 Juventude
+22/03/2022:Juventude 0 X 6 Fortaleza
 22/03/2022:Juventude 3 X 5 São Paulo
-24/03/2022:Juventude 4 X 2 Ceará
 24/03/2022:Fortaleza 4 X 6 Juventude
+24/03/2022:Juventude 4 X 2 Ceará
 26/03/2022:Cuiabá 6 X 2 Juventude
-27/03/2022:Juventude 1 X 0 Flamengo
+26/03/2022:Fluminense 1 X 1 Juventude
+26/03/2022:Juventude 6 X 5 Athletico Paranaense
+26/03/2022:Juventude 2 X 6 Internacional
 27/03/2022:Avaí 3 X 5 Juventude
-29/03/2022:Juventude 3 X 2 Atlético-MG
+27/03/2022:Botafogo 2 X 2 Juventude
+27/03/2022:Juventude 1 X 0 Flamengo
 29/03/2022:Coritiba 4 X 1 Juventude
+29/03/2022:Juventude 3 X 2 Atlético-MG
 30/03/2022:Atlético-GO 0 X 6 Juventude
-31/03/2022:Juventude 4 X 1 Coritiba
 31/03/2022:Bragantino 4 X 3 Juventude
+31/03/2022:Juventude 4 X 1 Coritiba

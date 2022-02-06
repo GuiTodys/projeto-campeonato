@@ -22,6 +22,7 @@ public class ChampionshipFileWriter {
         });
 
         writeChampionshipTableFile(formattedClassificationTable);
+        System.out.println("Championship table successfully created!");
     }
 
     public static void writeChampionshipTableFile(List<String> championshipTable){

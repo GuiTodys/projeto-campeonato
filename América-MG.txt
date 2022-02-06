@@ -1,17 +1,18 @@
 01/03/2022:América-MG 5 X 1 Coritiba
 02/03/2022:Botafogo 3 X 4 América-MG
+02/03/2022:Goiás 4 X 4 América-MG
 03/03/2022:Coritiba 1 X 1 América-MG
-04/03/2022:Athletico Paranaense 4 X 0 América-MG
 04/03/2022:América-MG 3 X 1 Botafogo
-05/03/2022:Santos 4 X 1 América-MG
+04/03/2022:Athletico Paranaense 4 X 0 América-MG
 05/03/2022:América-MG 2 X 1 Fluminense
 05/03/2022:América-MG 5 X 1 Juventude
+05/03/2022:Santos 4 X 1 América-MG
 07/03/2022:Juventude 2 X 6 América-MG
-08/03/2022:São Paulo 1 X 1 América-MG
 08/03/2022:América-MG 6 X 6 Ceará
-09/03/2022:Palmeiras 0 X 3 América-MG
+08/03/2022:São Paulo 1 X 1 América-MG
 09/03/2022:América-MG 2 X 4 Fortaleza
 09/03/2022:América-MG 1 X 5 São Paulo
+09/03/2022:Palmeiras 0 X 3 América-MG
 11/03/2022:América-MG 1 X 6 Cuiabá
 13/03/2022:América-MG 4 X 4 Palmeiras
 13/03/2022:América-MG 2 X 5 Santos
@@ -20,17 +21,18 @@
 16/03/2022:Fortaleza 5 X 3 América-MG
 17/03/2022:Atlético-MG 0 X 6 América-MG
 18/03/2022:América-MG 0 X 3 Atlético-MG
-19/03/2022:Atlético-GO 0 X 5 América-MG
 19/03/2022:América-MG 5 X 1 Internacional
-20/03/2022:Internacional 0 X 2 América-MG
+19/03/2022:Atlético-GO 0 X 5 América-MG
 20/03/2022:América-MG 2 X 2 Atlético-GO
+20/03/2022:Internacional 0 X 2 América-MG
 21/03/2022:Flamengo 2 X 5 América-MG
 22/03/2022:Cuiabá 2 X 1 América-MG
-24/03/2022:Avaí 4 X 3 América-MG
 24/03/2022:América-MG 0 X 0 Bragantino
-25/03/2022:Ceará 3 X 4 América-MG
+24/03/2022:Avaí 4 X 3 América-MG
+24/03/2022:Bragantino 2 X 6 América-MG
 25/03/2022:América-MG 4 X 4 Athletico Paranaense
 25/03/2022:América-MG 0 X 5 Avaí
+25/03/2022:Ceará 3 X 4 América-MG
 26/03/2022:Fluminense 2 X 3 América-MG
 28/03/2022:América-MG 5 X 0 Corinthians
 29/03/2022:Corinthians 0 X 1 América-MG
